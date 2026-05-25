@@ -19,6 +19,7 @@ def style_background_home():
                     background-color:#E0E3FF !important;
                     padding:2.5rem !important;
                     border-radius: 5rem !important;
+                    color: black;
                     }
         </style>  
 
@@ -73,7 +74,6 @@ def style_base_layout():
                 font-size: 2rem !important;
                 line-height:0.9 !important;
                 margin-bottom:0rem !important;
-                color: black;
             }
                 
             h3, h4, p {
