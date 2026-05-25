@@ -19,7 +19,6 @@ def style_background_home():
                     background-color:#E0E3FF !important;
                     padding:2.5rem !important;
                     border-radius: 5rem !important;
-                    color: black;
                     }
         </style>  
 
@@ -58,7 +57,7 @@ def style_base_layout():
             }
                 
             .block-container {
-                padding-top:1.5rem !important;    
+                padding-top:1.5rem !important;   
             }
 
             h1 {
@@ -68,7 +67,6 @@ def style_base_layout():
                 margin-bottom:0rem !important;
             }
                 
-
             h2 {
                 font-family: 'Climate Crisis', sans-serif !important;
                 font-size: 2rem !important;
