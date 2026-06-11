@@ -1,12 +1,20 @@
+streamlit
 numpy
 pandas
+
+# FACE RECOGNITION
 scikit-learn # import ML model like SVM, LINEAR REGRESSION ETC.
 dlib-bin 
 # Used for face detection and face recognition tasks in AI/Computer Vision projects. Commonly used with the face_recognition library. 
 git+https://github.com/ageitgey/face_recognition_models # is used to install the pretrained model files required by the face_recognition library.
 setuptools<70.0.0
+
 supabase
 bcrypt
+
 segno  # Used for generating QR Codes in Python.
 pillow # (PIL) is used for image processing.
-streamlit
+
+
+librosa # is a Python library for analyzing and processing audio signals, commonly used in music information retrieval and audio analysis tasks.
+resemblyzer
